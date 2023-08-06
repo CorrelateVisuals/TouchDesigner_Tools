@@ -6,4 +6,4 @@ A ![FITS](https://fits.gsfc.nasa.gov/fits_standard.html) (Flexible Image Transpo
 
 Astronomical scientific discoveries stored in FITS format can be attained at ![GRANTECAN's database](http://www.gtc.iac.es/). For more information visit ![GRANTECAN](http://www.gtc.iac.es/).
 
-Special thanks to ![Derrivative](derivative.ca/) for implementing this widely adopted format into TouchdDesigner. And assisting with the scaling module.
+Special thanks to ![Derrivative](derivative.ca/) for implementing this widely adopted format into TouchdDesigner and assisting with the mathematical calculations.
