@@ -4,7 +4,7 @@
 
 A ![FITS](https://fits.gsfc.nasa.gov/fits_standard.html) (Flexible Image Transport System) file is a standard format used in astronomy for storing images, tables, and other data. It is designed to be platform-independent and widely supported by astronomical software for data analysis and sharing.
 
-Image used for this example
+Image used for this example:
 ```
 FILE-NAME    'FINAL_EMIR_STR_IMG_H.fits'
 INSTRUMENT   'EMIR    '               / EMIR
