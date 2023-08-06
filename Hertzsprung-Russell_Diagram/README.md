@@ -1,4 +1,4 @@
-# The Hertzsprung-Russell Diagram
+# Hertzsprung-Russell Diagram
 ![Image](https://github.com/CorrelateVisuals/Touchdesigner_Tools/blob/main/Hertzsprung-Russell_Diagram/Hertzsprung-Russell_Diagram_Image.PNG?raw=true)
 
 The Hertzsprung-Russell Diagram is a graphical representation that plots the luminosity (brightness) of stars against their surface temperature. It helps astronomers classify and study stars based on their evolutionary stage and characteristics.
