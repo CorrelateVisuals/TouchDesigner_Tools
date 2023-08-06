@@ -1,9 +1,9 @@
 # The Hertzsprung-Russell Diagram
-![Image](https://github.com/CorrelateVisuals/Touchdesigner_Tools/blob/mainHertzsprung-Russell_Diagram/mainHertzsprung-Russell_Diagram_Image.PNG?raw=true)
+![Image](https://github.com/CorrelateVisuals/Touchdesigner_Tools/blob/mainHertzsprung-Russell_Diagram/main/Hertzsprung-Russell_Diagram_Image.PNG?raw=true)
 
 The Hertzsprung-Russell Diagram is a graphical representation that plots the luminosity (brightness) of stars against their surface temperature. It helps astronomers classify and study stars based on their evolutionary stage and characteristics.
 
-![Image](https://github.com/CorrelateVisuals/Touchdesigner_Tools/blob/mainHertzsprung-Russell_Diagram/Messier_11_Grantecan_Nasmyth-B_OSIRIS.jpg?raw=true)
+![Image](https://github.com/CorrelateVisuals/Touchdesigner_Tools/blob/main/Hertzsprung-Russell_Diagram/Messier_11_Grantecan_Nasmyth-B_OSIRIS.jpg?raw=true)
 Image used for this example:
 ```
 Object Name:		Messier 11, Wild Duck Cluster
