@@ -1,2 +1,2 @@
 # Auto detect text files and perform LF normalization
-*.tox linguist-language=Python
+*.tox linguist-language=GLSL
