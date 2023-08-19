@@ -1,4 +1,4 @@
-# TouchDesigner_Tools
+# TouchDesigner tools
 A collection of TouchDesigner tools, tested in TouchDesigner 2021.16410 (stable).
 
 ![Logo](https://github.com/CorrelateVisuals/Touchdesigner_Tools/blob/main/TouchDesigner_Logo.PNG?raw=true)
